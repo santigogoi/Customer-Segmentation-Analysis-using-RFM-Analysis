@@ -34,6 +34,8 @@ The analysis was performed on a Bank Transactions Dataset consisting of:
 
 •	Determined the "Golden Window" (avg. 16.5 days) for follow-up marketing to new customers.
 
+• Identified that 14.36% of customers in the 'Can't Lose Them' segment are high-value with declining recency, guiding churn prevention efforts.
+
 ## 📂 Project Structure
 1.	Data Cleaning: Handling null values and converting date formats.
 
