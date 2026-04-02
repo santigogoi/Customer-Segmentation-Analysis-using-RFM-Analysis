@@ -28,11 +28,11 @@ The analysis was performed on a Bank Transactions Dataset consisting of:
 •	Key Features: CustomerID, TransactionDate, TransactionAmount (INR), CustAccountBalance, Gender, and Location.
 
 ## 📊 Actionable Business Insights:
-o	Identified VIP Lapsed Customers (High balance, low recency) for personalised retention.
+•	Identified VIP Lapsed Customers (High balance, low recency) for personalised retention.
 
-o	Mapped Geographical Hotspots (Mumbai, Delhi, Bangalore) where the highest-value customers are concentrated.
+•	Mapped Geographical Hotspots (Mumbai, Delhi, Bangalore) where the highest-value customers are concentrated.
 
-o	Determined the "Golden Window" (avg. 16.5 days) for follow-up marketing to new customers.
+•	Determined the "Golden Window" (avg. 16.5 days) for follow-up marketing to new customers.
 
 ## 📂 Project Structure
 1.	Data Cleaning: Handling null values and converting date formats.
