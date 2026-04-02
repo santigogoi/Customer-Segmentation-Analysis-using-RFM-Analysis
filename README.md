@@ -8,6 +8,7 @@ The Challenge: The bank possesses a massive dataset of over 1 million transactio
 1.	High Marketing Waste: Spending resources on low-value or inactive customers.
 2.	Customer Churn: Failing to identify high-value customers who are becoming inactive (lapsing) before they leave for a competitor.
 3.	Missed Revenue: Inability to identify "Loyal" customers who have high engagement but low spend, representing a missed opportunity for premium product upselling.
+
 The Objective: The goal of this project is to implement an RFM (Recency, Frequency, Monetary) Analysis framework to segment customers into distinct behavioural groups. By quantifying how recently, how often, and how much a customer spends, the bank can transition from generic broadcasting to data-driven, personalised marketing strategies that maximise Customer Lifecycle Value (CLV) and reduce churn.
 
 ## 🛠️ Tech Stack & Tools
