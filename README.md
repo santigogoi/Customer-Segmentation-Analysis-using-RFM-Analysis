@@ -39,15 +39,15 @@ o	Determined the "Golden Window" (avg. 16.5 days) for follow-up marketing to new
 
 2.	RFM Calculation: 
 
-• Recency: Days since the last transaction.
+ • Recency: Days since the last transaction.
 
-•	Frequency: Number of transactions.
+ •	Frequency: Number of transactions.
 
-•	Monetary: Total value of transactions.
+ •	Monetary: Total value of transactions.
 
 3.	Scoring: Assigning 1–5 scores using quintiles.
 
-4.	Segmentation: Mapping scores to labels like Champions, Loyal Customers, At Risk, and New Customers.
+4.	Segmentation: Mapping scores to labels like Champions, Loyal Customers, At Risk, Can't Lose Them, Promising and New Customers.
 
 5.	SQL Analysis: Answering complex business questions using optimised SQL joins.
 
