@@ -13,11 +13,15 @@ The Objective: The goal of this project is to implement an RFM (Recency, Frequen
 
 ## 🛠️ Tech Stack & Tools
 •	Language: Python (Pandas, NumPy)
+
 •	Database: MySQL (SQLAlchemy for integration)
+
 •	Environment: Jupyter Notebook
+
 •	Concepts: Data Cleaning, Feature Engineering, RFM Segmentation, SQL Querying
 
 ## 📊 Data Source
 The analysis was performed on a Bank Transactions Dataset consisting of:
 •	Size: 1,000,000+ records.
+
 •	Key Features: CustomerID, TransactionDate, TransactionAmount (INR), CustAccountBalance, Gender, and Location.
